@@ -1,7 +1,7 @@
 {
   "name" : "Print Region into PDF",
   "version" : "1.0",
-  "description" : "This Plugin will automatically covnert your apex region data or report data into PDF format. This plugin will call on button click and must enable Fire on Initialization in Execution Options",
+  "description" : "This Plugin will automatically convert your apex region data or report data into PDF format. This plugin will call on button click and must enable Fire on Initialization in Execution Options",
   "keywords" : ["Print", "PDF", "Region", "dynamic","dynamic action","oracle","apex","Vikas","convert"],
   "homepage" : "https://github.com/www-smithchain-com/Print-Region-Into-PDF",
   "bugs" : {
